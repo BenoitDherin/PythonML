@@ -6,6 +6,7 @@ PythonML
 * [Logistic Regression](http://nbviewer.ipython.org/urls/db.tt/ztGWsohz)
 * [Softmax Regression](http://nbviewer.ipython.org/urls/db.tt/8EZ5onjM)
 * [Linear Regression](http://nbviewer.ipython.org/urls/db.tt/yAyivhpN)
+* [Generalized Linear Models](http://nbviewer.ipython.org/urls/db.tt/y4KezQq1)
 * [Support Vector Machine](http://nbviewer.ipython.org/urls/db.tt/CDvj9wS3)
 * [Decision Trees](http://nbviewer.ipython.org/urls/db.tt/8jaVUM6N)
 * [Random Forests](http://nbviewer.ipython.org/urls/db.tt/OLbLni1b)

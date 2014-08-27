@@ -1,5 +1,7 @@
 PythonML
 ========
+Contact: Benoit Dherin
+
 
 ## Content 
 
